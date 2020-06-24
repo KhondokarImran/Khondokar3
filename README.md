@@ -26,8 +26,8 @@ cd Khondokar3
 python2 Khondokar3 .py
 
 
-username :Imran
+username :Khondokar
 
 
 
-passwed:Imran
+passwed:Khondokar
